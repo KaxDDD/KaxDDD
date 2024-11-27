@@ -9,6 +9,6 @@ Soy un estudiante de grado medio apasionado por la programacion.
 
 ## 📫 Conéctame
 
-- [Discord].kazehh
+- [Discord](.kazehh)
 
 Espero que hablemos pronto :D👋
